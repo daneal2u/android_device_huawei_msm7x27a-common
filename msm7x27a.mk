@@ -223,8 +223,8 @@ ADDITIONAL_DEFAULT_PROPERTIES += \
    dalvik.vm.image-dex2oat-Xmx=48m
 
 # OTAUpdater
-PRODUCT_PACKAGES += \
-   OTAUpdater
+#PRODUCT_PACKAGES += \
+#   OTAUpdater
 
 # Allow ADB by default
 ADDITIONAL_DEFAULT_PROPERTIES += \
